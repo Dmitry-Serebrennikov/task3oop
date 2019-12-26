@@ -1,0 +1,10 @@
+﻿  textfile.cpp
+C:\Users\argen\source\repos\3_zadacha_zachet\3_zadacha_zachet\textfile.cpp(26,21): warning C4018:  <: несоответствие типов со знаком и без знака
+C:\Users\argen\source\repos\3_zadacha_zachet\3_zadacha_zachet\textfile.cpp(73,20): warning C4018:  <: несоответствие типов со знаком и без знака
+C:\Users\argen\source\repos\3_zadacha_zachet\3_zadacha_zachet\textfile.cpp(74,21): warning C4018:  <: несоответствие типов со знаком и без знака
+C:\Users\argen\source\repos\3_zadacha_zachet\3_zadacha_zachet\textfile.cpp(89,20): warning C4018:  <: несоответствие типов со знаком и без знака
+C:\Users\argen\source\repos\3_zadacha_zachet\3_zadacha_zachet\textfile.cpp(101,20): warning C4018:  <: несоответствие типов со знаком и без знака
+C:\Users\argen\source\repos\3_zadacha_zachet\3_zadacha_zachet\textfile.cpp(109,20): warning C4018:  <: несоответствие типов со знаком и без знака
+C:\Users\argen\source\repos\3_zadacha_zachet\3_zadacha_zachet\textfile.cpp(112,9): warning C4018:  >=: несоответствие типов со знаком и без знака
+C:\Users\argen\source\repos\3_zadacha_zachet\3_zadacha_zachet\textfile.cpp(117,14): warning C4018:  >=: несоответствие типов со знаком и без знака
+  3_zadacha_zachet.vcxproj -> C:\Users\argen\source\repos\3_zadacha_zachet\Debug\3_zadacha_zachet.exe
